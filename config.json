@@ -76,6 +76,13 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "豪华": {
+      "api": "https://hhzyapi.com/api.php/provide/vod",
+      "name": "豪华资源"
     }
-  }
+  "豆瓣": {
+      "api": "https://caiji.dbzy5.com/api.php/provide/vod",
+      "name": "豆瓣资源"
+}
 }
